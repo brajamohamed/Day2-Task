@@ -1,0 +1,17 @@
+In javascript, document objects are used to manipulate html content. It provides access to manipulate the content of web page such as 
+creating,
+modifying and
+deleting html elements.
+
+It also used to change styles and handle events.
+
+
+Window objects
+Window objects are used to control browser window like 
+minimize, 
+maximize, 
+resizing, 
+closing the window.
+
+It also has objects to control scroll bar, getting the size and position of the window.
+
